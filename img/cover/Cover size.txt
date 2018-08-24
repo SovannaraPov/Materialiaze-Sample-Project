@@ -1,0 +1,5 @@
+home cover
+width: 1353 pixel height: 545 pixel
+
+page cover 
+width: 1353 pixel height: 588 pixel
