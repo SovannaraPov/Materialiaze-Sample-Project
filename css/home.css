@@ -4,21 +4,11 @@ body {
   font-family: Courier;
 }
 
-
-
-/* Nav Bar */
-
-/* @media only screen and (max-width: 993px) {
-  .navbar-fixed nav {
-    position: relative;
-  }
-} */
-
-.mycolor{
+.mycolor {
   background-color: #00a680;
 }
 
-.nav-ul{
+.nav-ul {
   /* margin-right: 0; */
 }
 
@@ -163,5 +153,5 @@ h1 {
 }
 
 .info {
-  margin-left: 50px;
+  margin-left: 11px;
 }
